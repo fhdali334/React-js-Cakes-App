@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/React-js-Cakes-App/static/css/main.77461f4f.css",
+    "main.js": "/React-js-Cakes-App/static/js/main.150b7805.js",
+    "static/media/hero-2.png": "/React-js-Cakes-App/static/media/hero-2.95ce6cd92a26c6baafa7.png",
+    "static/media/cupcakes.jpg": "/React-js-Cakes-App/static/media/cupcakes.87c7a4ef38ce05aa5be0.jpg",
+    "static/media/featured1.jpg": "/React-js-Cakes-App/static/media/featured1.dc6bb09be8e5d018df67.jpg",
+    "static/media/featured2.jpg": "/React-js-Cakes-App/static/media/featured2.8c8660e63e8a289f8b6c.jpg",
+    "static/media/two-fast.jpg": "/React-js-Cakes-App/static/media/two-fast.b169452d86081faef763.jpg",
+    "static/media/green-with-rose.jpg": "/React-js-Cakes-App/static/media/green-with-rose.14edf2e89dc087f26ec4.jpg",
+    "static/media/flamingo.jpg": "/React-js-Cakes-App/static/media/flamingo.3968101f047e68ff21fe.jpg",
+    "static/media/brown-floral.jpg": "/React-js-Cakes-App/static/media/brown-floral.ea9e6ed181a210c0be99.jpg",
+    "static/media/lavender-butterflies.jpg": "/React-js-Cakes-App/static/media/lavender-butterflies.d72a3d30a042dc61d569.jpg",
+    "static/media/sandlot-1.jpg": "/React-js-Cakes-App/static/media/sandlot-1.480a9000145e6da15d1b.jpg",
+    "static/media/two-sweet.jpg": "/React-js-Cakes-App/static/media/two-sweet.b24ed7aa081301f873e3.jpg",
+    "static/media/moving-new-mexico-1.jpg": "/React-js-Cakes-App/static/media/moving-new-mexico-1.f7315d0ec528b6d4e1a8.jpg",
+    "static/media/favicon.png": "/React-js-Cakes-App/static/media/favicon.898782acc709004edacd.png",
+    "static/media/lavbday.jpg": "/React-js-Cakes-App/static/media/lavbday.9cfcddf89a9ac7cdd186.jpg",
+    "static/media/featured3.jpg": "/React-js-Cakes-App/static/media/featured3.b268181ece82700a4ff2.jpg",
+    "static/media/daisy-selfie.jpeg": "/React-js-Cakes-App/static/media/daisy-selfie.fb9554ac01beea74fe34.jpeg",
+    "static/media/daisylogo.png": "/React-js-Cakes-App/static/media/daisylogo.1bd4e176906869fef006.png",
+    "static/media/text-logo.png": "/React-js-Cakes-App/static/media/text-logo.8d9091dc57d7d7738cb7.png",
+    "static/media/Le_Cordon_Bleu_logo.jpeg": "/React-js-Cakes-App/static/media/Le_Cordon_Bleu_logo.9a00937d1ba38d565c06.jpeg",
+    "static/media/tips.svg": "/React-js-Cakes-App/static/media/tips.9570e9ae6228a7bb5ece.svg",
+    "static/media/about.svg": "/React-js-Cakes-App/static/media/about.296cd3c8caa4db37504f.svg",
+    "index.html": "/React-js-Cakes-App/index.html",
+    "static/media/login.svg": "/React-js-Cakes-App/static/media/login.1601a60321791558f4b1.svg",
+    "main.77461f4f.css.map": "/React-js-Cakes-App/static/css/main.77461f4f.css.map",
+    "main.150b7805.js.map": "/React-js-Cakes-App/static/js/main.150b7805.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77461f4f.css",
+    "static/js/main.150b7805.js"
+  ]
+}
